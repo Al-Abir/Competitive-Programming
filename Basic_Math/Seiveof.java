@@ -15,8 +15,8 @@ public class Seiveof {
                 if (prime[i]) System.out.print(i + " ");
         }
     public static void main(String[] args) {
-        
-        int n = 30;
+         
+         int n = 30;
          SieveOfEratosthenes(n);
         
     }
