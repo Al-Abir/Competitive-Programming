@@ -2,12 +2,7 @@ package Basic_Math;
 
 public class Armstrong{
 
-    // Java program to determine whether 
-// the number is Armstrong number or not
-
-    
-    // Function to calculate x raised 
-    // to the power y 
+   
     int power(int x, long y)
     {
         if (y == 0)

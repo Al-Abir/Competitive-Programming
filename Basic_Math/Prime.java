@@ -16,7 +16,7 @@ public class Prime {
             }
         }
         if(cnt==2){
-            System.out.println("This prim number");
+            System.out.println("This prime number");
         }else{
             System.out.println("This not a prime Number");
         }
