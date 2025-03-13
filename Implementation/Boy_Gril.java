@@ -2,6 +2,26 @@ package Implementation;
 
 
 
+import java.util.*;
+
+public class Boy_Gril{
+    public static void main(String[] args) {
+       Scanner sc = new Scanner(System.in);
+       String str = sc.nextLine();
+       Set<Character> st = new HashSet<>();
+       
+       for(int i = 0; i < str.length(); i++) {
+           char c = str.charAt(i);
+           st.add(c);
+       }
+       
+       if (st.size() % 2 == 0) {
+           System.out.print("YES");
+       } else {
+           System.out.print("NO");
+       }
+    }
+}
 
 
 /*
