@@ -24,7 +24,7 @@ public class Print_All_Divisor {
         // Correct way to sort an ArrayList
         Collections.sort(arr);
 
-        for (var num : arr) {
+        for (Integer num : arr) {
             System.out.println(num);
         }
     }
