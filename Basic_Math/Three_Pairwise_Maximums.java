@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Three_Pairwise_Maximums {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int t = sc.nextInt(); // Test case count
+        int t = sc.nextInt(); 
         while(t-- > 0){
             int arr[] = new int[3];
 
