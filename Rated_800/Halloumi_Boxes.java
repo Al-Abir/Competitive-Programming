@@ -22,8 +22,8 @@ public class Halloumi_Boxes {
             else{
                 boolean sorted= true;
                 for(int i=1; i<arr.length; i++){
-                    if(arr[i]<arr[i-1]){sorted= false;
-
+                    if(arr[i]<arr[i-1])
+                    {
                         sorted= false;
                         break;
                     }

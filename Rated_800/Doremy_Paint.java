@@ -12,8 +12,7 @@ public class Doremy_Paint {
         while (t-- > 0) {
             int n = sc.nextInt(); 
             Map<Integer, Integer> freq = new HashMap<>();
-
-        
+            
             for (int i = 0; i < n; i++) {
                 int num = sc.nextInt();
                 freq.put(num, freq.getOrDefault(num, 0) + 1);

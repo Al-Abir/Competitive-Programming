@@ -13,8 +13,6 @@ public class Jagged {
             for (int i = 0; i < n; i++) {
                 arr.add(sc.nextInt()); 
             }
-
-    
             if (arr.get(0) != 1) {  
                 System.out.println("NO");
             } else {
