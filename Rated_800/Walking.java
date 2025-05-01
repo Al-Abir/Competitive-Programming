@@ -15,17 +15,13 @@ public class Walking {
             if(a==c &&  b==d){
                 System.out.println(0);
                 continue;
-            }if(b>d){
+            }if(b>d || (c-a)>(d-b)){
                 System.out.println(-1);
                 continue;
-            }
-            int shift = d-b;
-            if(a<c-shift){
-                System.out.println(-1);
             }else{
-                int ans = a-(c-shift)+shift;
-                System.out.println(ans);
+                System.out.println((a-c)+2*(d-b));
             }
+            
         }
     }
 }
