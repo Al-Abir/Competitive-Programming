@@ -9,7 +9,7 @@ public class Mainak_Array {
         int t = sc.nextInt();
 
         while (t-- > 0) {
-            int n = sc.nextInt();  // use int instead of long for array size
+            int n = sc.nextInt();  
             long[] arr = new long[n];
 
             for (int i = 0; i < n; i++) {
