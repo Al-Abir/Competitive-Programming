@@ -52,7 +52,7 @@ public class Deletive_Editing {
 
 /*
  
- int[] freq = new int[26];  // Frequency array for letters A-Z
+        int[] freq = new int[26];  // Frequency array for letters A-Z
 
         // Count frequencies in t
         for (char ch : t.toCharArray()) {
