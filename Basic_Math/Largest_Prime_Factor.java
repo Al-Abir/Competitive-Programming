@@ -20,7 +20,7 @@ public class Largest_Prime_Factor {
     }
     public static void main(String[] args) {
       
-        long number = 600851475143L; // Example input
+        long number =15L; // Example input
         long largestFactor = largestPrimeFactor(number);
         System.out.println("The largest prime factor of " + number + " is: " + largestFactor);
     }
