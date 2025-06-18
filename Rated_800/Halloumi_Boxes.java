@@ -1,6 +1,5 @@
 package Rated_800;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Halloumi_Boxes {
