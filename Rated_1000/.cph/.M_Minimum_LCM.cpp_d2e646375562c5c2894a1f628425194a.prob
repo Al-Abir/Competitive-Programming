@@ -1,1 +1,0 @@
-{"name":"Local: M_Minimum_LCM","url":"/media/abir/C++ DSA/Competitive Programming/Rated_1000/M_Minimum_LCM.cpp","tests":[{"id":1751850153823,"input":"4\n2\n9\n5\n10\n","output":"1 1\n3 6\n1 4\n5 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/abir/C++ DSA/Competitive Programming/Rated_1000/M_Minimum_LCM.cpp","group":"local","local":true}
